@@ -13,7 +13,7 @@
     "id": "aliuq-folder-block",
     "title": "Example Folder Block",
     "description": "A basic folder block",
-    "entry": "blocks/example-folder-block.tsx",
+    "entry": "blocks/example-folder-block/index.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/githubocto/flat"
   }
