@@ -1,7 +1,7 @@
 [
   {
     "type": "file",
-    "id": "file-block",
+    "id": "aliuq-file-block",
     "title": "Example File Block",
     "description": "A basic file block",
     "entry": "blocks/example-file-block/index.tsx",
@@ -10,7 +10,7 @@
   },
   {
     "type": "folder",
-    "id": "folder-block",
+    "id": "aliuq-folder-block",
     "title": "Example Folder Block",
     "description": "A basic folder block",
     "entry": "blocks/example-folder-block.tsx",
@@ -18,3 +18,4 @@
     "example_path": "https://github.com/githubocto/flat"
   }
 ]
+
